@@ -33,3 +33,5 @@ build/
 .vscode/
 
 key.txt
+
+nabortu-front/node_modules
